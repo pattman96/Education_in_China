@@ -2,9 +2,9 @@
 library(ggplot2)
 
 # Load up the Data 
-rural_exp <- read.csv('/Users/machine/Desktop/Rur_Exp.csv')
-urb_exp <- read.csv('/Users/machine/Desktop/Urb_Exp.csv')
-ed_prov <- read.csv('/Users/machine/Desktop/Ed_Prov.csv')
+rural_exp <- read.csv('PATH')
+urb_exp <- read.csv('PATH')
+ed_prov <- read.csv('PATH')
 
 
 # Plot lack of education by province
